@@ -48,4 +48,4 @@ function addTodo() {
         };
         todoEl.appendChild(editBtn);
     }
-  }
+}
