@@ -4,13 +4,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #b92222;
 }
 .todo-app {
-    background-color: white;
+    background-color: rgb(26, 13, 216);
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 10px rgba(216, 111, 111, 0.1);
 }
 #todoInput {
     padding: 10px;
@@ -27,5 +27,5 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background-color: #0056b3;
+    background-color: #a3e40c;
 }
