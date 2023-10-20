@@ -4,7 +4,6 @@ function addTodo() {
     if (todoInput.value.trim() === "") {
       alert("Veuillez entrer une tâche!");
       return;
-      console.log(alltodous);
     }
     const todoText = todoInput.value;
     if (todoText) {
